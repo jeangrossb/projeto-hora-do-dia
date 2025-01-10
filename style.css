@@ -1,0 +1,44 @@
+body {
+    background: rgb(35, 35, 254);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 1.5em;
+    padding: 2em;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(53, 53, 53);
+}
+
+div {
+    text-align: center;
+    padding: 1rem;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(101, 101, 101);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b10909; 
+    text-decoration: underline; 
+}
